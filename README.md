@@ -57,7 +57,7 @@ sudo git clone https://github.com/santana-igor/POO.git
 
 ```
 
-## Use mode
+## Description
 
 Toda customização de estilos estão na pasta `Assets`. A pasta `source` está armazenando as classes que foram utilizadas no projeto, são elas: Address, Company, Product, Team. Cada classe possui um __construct e tem seus métodos getters para acesso rápido. Todo gerenciamento das classes são feitos através do autoload do composer. Todos os dados para popular o sistema encontram-se no diretório `database`. Você pode acessá-lo e realizar as modificações e adicionar novas funções. O arquivo `index.php` está renderizando todo sistema criado.
 
