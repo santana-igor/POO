@@ -1,0 +1,17 @@
+{
+    "name": "developer/poo1",
+    "description": "Cadastro de empresa e funcionário",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Igor Santana",
+            "email": "igor.amaral@iamaral.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\":"source/"
+        }
+    },
+    "require": {}
+}
